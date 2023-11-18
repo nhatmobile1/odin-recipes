@@ -1,0 +1,25 @@
+body {
+  font-family: "Lucinda Console", Helvetica, sans-serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.headspan {
+  background-color: rgb(32, 98, 254);
+}
+
+.ulmain {
+  background-color: rgb(255, 84, 175);
+  padding: 20px;
+}
+
+.ulmain li {
+  background: #ffe5e5;
+  color: darkred;
+  font-weight: bold;
+  padding: 5px;
+  margin-left: 35px;
+}
