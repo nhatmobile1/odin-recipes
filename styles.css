@@ -15,7 +15,7 @@ h1 {
 }
 
 .ulmain {
-  background-color: rgb(255, 84, 175);
+  background-color: rgb(255, 138, 84);
   padding: 20px;
   text-align: center;
   margin: 10px 25%;
@@ -23,8 +23,7 @@ h1 {
 }
 
 .ulmain li {
-  background: #ffe5e5;
-  color: darkred;
+  background: #fff4e5;
   font-weight: bold;
   padding: 10px;
   margin-right: 10px;
