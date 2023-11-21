@@ -7,13 +7,18 @@ h1 {
   text-align: center;
 }
 
-.headspan {
+.headtitle {
   background-color: rgb(32, 98, 254);
+  display: block;
+  padding: 10px;
+  margin: 10px 35%;
 }
 
 .ulmain {
   background-color: rgb(255, 84, 175);
   padding: 20px;
+  text-align: center;
+  margin: 10px 25%;
   /* width: 300px; */
 }
 
@@ -22,5 +27,6 @@ h1 {
   color: darkred;
   font-weight: bold;
   padding: 10px;
-  margin-left: 25px;
+  margin-right: 10px;
+  display: inline-block;
 }
