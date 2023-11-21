@@ -14,12 +14,13 @@ h1 {
 .ulmain {
   background-color: rgb(255, 84, 175);
   padding: 20px;
+  /* width: 300px; */
 }
 
 .ulmain li {
   background: #ffe5e5;
   color: darkred;
   font-weight: bold;
-  padding: 5px;
-  margin-left: 35px;
+  padding: 10px;
+  margin-left: 25px;
 }
